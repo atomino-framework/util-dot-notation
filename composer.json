@@ -1,0 +1,17 @@
+{
+    "name": "atomino/util-dot-notation",
+    "description": "Array dot notation converter",
+    "keywords": ["array","dot notation"],
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name": "Gergely Laborci",
+            "email": "gergely@laborci.hu"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Atomino\\Neutrons\\": "src/"
+        }
+    }
+}
